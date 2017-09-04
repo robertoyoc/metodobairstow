@@ -1,0 +1,6 @@
+﻿  MétodoBairstow.cpp
+c:\users\roberto\desktop\tecdemonterrey\quinto semestre\mni\métodobairstow\métodobairstow\métodobairstow.cpp(98): warning C4101: 'r3': variable local sin referencia
+c:\users\roberto\desktop\tecdemonterrey\quinto semestre\mni\métodobairstow\métodobairstow\métodobairstow.cpp(166): warning C4101: 'r3': variable local sin referencia
+c:\users\roberto\desktop\tecdemonterrey\quinto semestre\mni\métodobairstow\métodobairstow\métodobairstow.cpp(218): warning C4101: 'r3': variable local sin referencia
+  MétodoBairstow.vcxproj -> C:\Users\Roberto\Desktop\TecdeMonterrey\Quinto Semestre\MNI\MétodoBairstow\Debug\MétodoBairstow.exe
+  MétodoBairstow.vcxproj -> C:\Users\Roberto\Desktop\TecdeMonterrey\Quinto Semestre\MNI\MétodoBairstow\Debug\MétodoBairstow.pdb (Full PDB)
